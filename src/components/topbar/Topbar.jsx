@@ -14,7 +14,7 @@ export default function Topbar() {
                     <span className="logo">Betpage</span>
                 </div>
                 <div className="topRight">
-                    <div className="entry"><Link to="signIn" className="link-form">SignIn</Link> /
+                    <div className="entry"><Link to="signIn" className="link-form">Login</Link> /
                     <Link className="link-form" aria-current="page" to="/signUp">SignUp</Link>
                     </div>
                     
