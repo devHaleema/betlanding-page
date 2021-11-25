@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/betlanding-page/static/css/main.144460b6.chunk.css",
+    "main.js": "/betlanding-page/static/js/main.1561860e.chunk.js",
+    "main.js.map": "/betlanding-page/static/js/main.1561860e.chunk.js.map",
+    "runtime-main.js": "/betlanding-page/static/js/runtime-main.52161c4b.js",
+    "runtime-main.js.map": "/betlanding-page/static/js/runtime-main.52161c4b.js.map",
+    "static/css/2.383c0125.chunk.css": "/betlanding-page/static/css/2.383c0125.chunk.css",
+    "static/js/2.b34ba832.chunk.js": "/betlanding-page/static/js/2.b34ba832.chunk.js",
+    "static/js/2.b34ba832.chunk.js.map": "/betlanding-page/static/js/2.b34ba832.chunk.js.map",
+    "index.html": "/betlanding-page/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/betlanding-page/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.144460b6.chunk.css.map": "/betlanding-page/static/css/main.144460b6.chunk.css.map",
+    "static/js/2.b34ba832.chunk.js.LICENSE.txt": "/betlanding-page/static/js/2.b34ba832.chunk.js.LICENSE.txt",
+    "static/media/bundesliga.24436d0d.jpg": "/betlanding-page/static/media/bundesliga.24436d0d.jpg",
+    "static/media/eredivise.84ee8c01.png": "/betlanding-page/static/media/eredivise.84ee8c01.png",
+    "static/media/footballfixtures.383aabcf.png": "/betlanding-page/static/media/footballfixtures.383aabcf.png",
+    "static/media/laliga.4e2caff3.png": "/betlanding-page/static/media/laliga.4e2caff3.png",
+    "static/media/laligaPlayers.428ff2a3.jpg": "/betlanding-page/static/media/laligaPlayers.428ff2a3.jpg",
+    "static/media/ligue1.19a08bd9.png": "/betlanding-page/static/media/ligue1.19a08bd9.png",
+    "static/media/messi.63195fa7.jpg": "/betlanding-page/static/media/messi.63195fa7.jpg",
+    "static/media/premierLeaguePlayers.545969a8.jpg": "/betlanding-page/static/media/premierLeaguePlayers.545969a8.jpg",
+    "static/media/seriea.0371c1d5.png": "/betlanding-page/static/media/seriea.0371c1d5.png",
+    "static/media/serieaPlayers.75b399fb.jpg": "/betlanding-page/static/media/serieaPlayers.75b399fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52161c4b.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.b34ba832.chunk.js",
+    "static/css/main.144460b6.chunk.css",
+    "static/js/main.1561860e.chunk.js"
+  ]
+}
