@@ -1,0 +1,32 @@
+.formWrapper{
+    display: flex;
+    flex: 3;
+    overflow-x: hidden;
+}
+.register-form{
+ margin: 0 150px;
+ width: 300px;
+ background-color: rgbrgb(245, 245, 245);
+    padding: 30px;
+}
+.form-field{
+    width: 250px;
+}
+.buton{
+    margin-top: 15px;
+}
+
+@media  screen and  (max-width: 600px){
+    
+    .register-form{
+        margin: 0 60px;
+        width: 250px;
+    }
+    .form-field{
+        width: 200px;
+    }
+    .col-12{
+        width: 400px;
+        height: 40px;
+    }
+}
